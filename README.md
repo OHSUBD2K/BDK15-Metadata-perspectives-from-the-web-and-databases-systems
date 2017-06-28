@@ -3,7 +3,6 @@
 
 # BD2K OER Materials Blueprint
 
-Revised 04/12/2016
 
 ## Module Number: BDK15
 
@@ -32,7 +31,7 @@ At the completion of this component, the learner will be able to:
 
 Unit 1 Slides: BDK15-1.pptx
 
-Unit 1 Audio: BDK15-1.mp3
+Unit 1 Audio: BDK15-1.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 1 Resources: BDK15-1\_resources.pdf
 
@@ -40,7 +39,7 @@ Unit 1 Resources: BDK15-1\_resources.pdf
 
 Unit 2 Slides: BDK15-2.pptx
 
-Unit 2 Audio: BDK15-2.mp3
+Unit 2 Audio: BDK15-2.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 2 Resources: BDK15-2\_resources.pdf
 
@@ -48,7 +47,7 @@ Unit 2 Resources: BDK15-2\_resources.pdf
 
 Unit 3 Slides: BDK15-3.pptx
 
-Unit 3 Audio: BDK15-3.mp3
+Unit 3 Audio: BDK15-3.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 3 Resources: BDK15-3\_resources.pdf
 
